@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">FinanceApp</string>
+
+    <!-- Mensagens de validação -->
+    <string name="erro_valor_vazio">Por favor, insira o valor</string>
+    <string name="erro_descricao_vazia">Por favor, insira a descrição</string>
+    <string name="erro_data_vazia">Por favor, selecione a data</string>
+    <string name="erro_valor_invalido">Valor inválido</string>
+    <string name="erro_valor_negativo">O valor deve ser maior que zero</string>
+
+    <!-- Mensagens de sucesso -->
+    <string name="sucesso_salvar">Despesa salva com sucesso!</string>
+    <string name="sucesso_exportar">Arquivo exportado com sucesso!</string>
+
+    <!-- Mensagens de erro -->
+    <string name="erro_salvar">Erro ao salvar despesa</string>
+    <string name="erro_exportar">Erro ao exportar arquivo</string>
+    <string name="erro_sem_dados">Não há dados para exportar</string>
+
+    <!-- Mensagens informativas -->
+    <string name="filtros_limpos">Filtros limpos</string>
+    <string name="nenhuma_despesa">Nenhuma despesa encontrada</string>
+
+    <!-- Labels -->
+    <string name="total_label">Total:</string>
+    <string name="pagina_label">Página</string>
+    <string name="de_label">de</string>
+
+    <!-- Cartões -->
+    <string name="cartao_nubank">Nubank</string>
+    <string name="cartao_mercadopago">MercadoPago</string>
+    <string name="cartao_neon">Neon</string>
+    <string name="cartao_caixa">Caixa</string>
+    <string name="cartao_outros">Outros</string>
+    <string name="cartao_todos">Todos</string>
+
+    <!-- Hints -->
+    <string name="hint_valor">Valor (ex: 150.00 ou 150,00)</string>
+    <string name="hint_descricao">Descrição</string>
+    <string name="hint_data">Data (clique para selecionar)</string>
+    <string name="hint_valor_busca">Buscar por valor (parcial)</string>
+    <string name="hint_descricao_busca">Buscar por descrição</string>
+    <string name="hint_data_inicial">Data inicial</string>
+    <string name="hint_data_final">Data final</string>
+
+    <!-- Botões -->
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_exportar">Exportar para Excel</string>
+    <string name="btn_anterior">Anterior</string>
+    <string name="btn_proximo">Próxima</string>
+
+    <!-- Títulos -->
+    <string name="titulo_cadastro">Cadastrar Despesa</string>
+    <string name="titulo_busca">Filtrar Despesas</string>
+    <string name="titulo_resultados">Resultados</string>
+</resources>

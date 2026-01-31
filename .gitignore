@@ -1,0 +1,28 @@
+# Configurações locais do Android Studio (SDK, caminhos locais)
+*.iml
+.gradle
+/.idea
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/*/build/
+
+# Arquivos temporários do dispositivo/emulador
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Arquivos de log e sistema operacional
+*.log
+Thumbs.db
+
+# Chaves de assinatura (NUNCA suba arquivos .jks ou .keystore)
+*.jks
+*.keystore
